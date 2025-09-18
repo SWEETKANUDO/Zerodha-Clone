@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",          // production ke liye (Render)
-  "dev": "nodemon index.js"          // local development ke liye
+  "start": "node index.js",       
+  "dev": "nodemon index.js"          
 },
   "author": "",
   "license": "ISC",
